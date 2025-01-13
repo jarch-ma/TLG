@@ -1,1 +1,1 @@
-The code will be released after paper acceptance.
+The code will be uploaded after the paper is accepted.
