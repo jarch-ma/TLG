@@ -1,11 +1,5 @@
 The code will be uploaded after the paper is accepted.
 
-## Content:
- 1. Revised Quantitative Analysis. ---> For Reviewer 1: nR2K
- 2. Added Quantitative Analysis. ---> For Reviewer 3: W9Dn and Reviewer 4: 7h83
- 3. Revised Qualitative Visualization Analysis. ---> For Reviewer 2: Q24e 
- 4. Added Qualitative Visualization Analysis. ---> For Reviewer 2: Q24e and Reviewer 3: W9Dn 
-
 ## 1.Update Quantitative Analysis (For Reviewer 1: nR2K):
 
 Table 3. Ablation study on various modules of TLG. The first row represents using only homogeneous features extracted by Backbone ResNet50. Following the same settings as AFANet, we set the support and query to layers 3, 9, and 12.
