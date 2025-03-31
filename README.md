@@ -13,4 +13,4 @@ Figure 11. Comparative Qualitative Visualization Analysis with State-of-the-Art 
 ## Abstract
 <div align=center><img width="80%" src="Figures/Fig.12.png"></div> 
 
-Figure 12. Ablation Study via Qualitative Visual Analysis. Comparative Qualitative Visualization Analysis with State-of-the-Art Models: Visualizing Segmentation Results under a 1-Shot Setting on the Pascal-5i Datasets. Each pair of columns corresponds to a fold in the meta-learning paradigm. The yellow numbers in the bottom right denote the Intersection over Union (IoU) scores.
+Figure 12. Ablation Study via Qualitative Visual Analysis: The visualizing segmentation results under a 1-Shot Setting on the Pascal-5i fold 0 Datasets. Each pair of columns corresponds to a fold in the meta-learning paradigm. The yellow numbers in the bottom right denote the Intersection over Union (IoU) scores.
