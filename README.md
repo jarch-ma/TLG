@@ -1,6 +1,6 @@
 The code will be uploaded after the paper is accepted.
 
-## Update Qualitative Visualization Analysis
+## 2. Update Qualitative Visualization Analysis:
 <div align=center><img width="80%" src="Figures/Fig.7.png"></div> 
 
 Figure 7. Visualization of heterogeneous features at different layers for support feature map. The first row corresponds to the low layer, while the second and third rows represent the middle layer and high layer, respectively. The upper-right displays the raw support image corresponding to the feature map.
@@ -9,7 +9,7 @@ Figure 7. Visualization of heterogeneous features at different layers for suppor
 
 Figure 8. Visualization of heterogeneous features at different layers for query feature map. The first row corresponds to the low layer, while the second and third rows represent the middle layer and high layer, respectively. The upper-right displays the raw query image corresponding to the feature map.
 
-## Added Qualitative Visualization Analysis
+## 3. Added Qualitative Visualization Analysis:
 <div align=center><img width="80%" src="Figures/Fig.10.png"></div> 
 
 Figure 10. Comparative Qualitative Visualization Analysis with State-of-the-Art Models: Visualizing Segmentation Results under a 1-Shot Setting on the Pascal-5i Datasets. Each pair of columns corresponds to a fold in the meta-learning paradigm. The yellow numbers in the bottom right denote the Intersection over Union (IoU) scores.
