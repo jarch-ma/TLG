@@ -3,6 +3,12 @@ The code will be uploaded after the paper is accepted.
 ## 1.Update Quantitative Analysis:
 <div align=center><img width="80%" src="Figures/Table3.png"></div> 
 Table 3. Ablation study on various modules of TLG. The first row represents using only homogeneous features extracted by Backbone ResNet50. Following the same settings as AFANet, we set the support and query to layers 3, 9, and 12.
+
+## 2.Added Quantitative Analysis:
+<div align=center><img width="80%" src="Figures/Table3.png"></div> 
+Table 3. Ablation study on various modules of TLG. The first row represents using only homogeneous features extracted by Backbone ResNet50. Following the same settings as AFANet, we set the support and query to layers 3, 9, and 12.
+
+
 ## 3. Update Qualitative Visualization Analysis:
 <div align=center><img width="80%" src="Figures/Fig.7.png"></div> 
 
