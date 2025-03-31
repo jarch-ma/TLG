@@ -1,6 +1,9 @@
 The code will be uploaded after the paper is accepted.
 
-## 2. Update Qualitative Visualization Analysis:
+## 1.Update Quantitative Analysis:
+<div align=center><img width="80%" src="Figures/Table3.png"></div> 
+Table 3. Ablation study on various modules of TLG. The first row represents using only homogeneous features extracted by Backbone ResNet50. Following the same settings as AFANet, we set the support and query to layers 3, 9, and 12.
+## 3. Update Qualitative Visualization Analysis:
 <div align=center><img width="80%" src="Figures/Fig.7.png"></div> 
 
 Figure 7. Visualization of heterogeneous features at different layers for support feature map. The first row corresponds to the low layer, while the second and third rows represent the middle layer and high layer, respectively. The upper-right displays the raw support image corresponding to the feature map.
@@ -9,7 +12,7 @@ Figure 7. Visualization of heterogeneous features at different layers for suppor
 
 Figure 8. Visualization of heterogeneous features at different layers for query feature map. The first row corresponds to the low layer, while the second and third rows represent the middle layer and high layer, respectively. The upper-right displays the raw query image corresponding to the feature map.
 
-## 3. Added Qualitative Visualization Analysis:
+## 4. Added Qualitative Visualization Analysis:
 <div align=center><img width="80%" src="Figures/Fig.10.png"></div> 
 
 Figure 10. Comparative Qualitative Visualization Analysis with State-of-the-Art Models: Visualizing Segmentation Results under a 1-Shot Setting on the Pascal-5i Datasets. Each pair of columns corresponds to a fold in the meta-learning paradigm. The yellow numbers in the bottom right denote the Intersection over Union (IoU) scores.
