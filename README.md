@@ -24,6 +24,7 @@ Table 4. Ablation study on heterogeneous support and query layers. The backbone 
 
 Figure 7. Visualization of heterogeneous features at different layers for support feature map. The first row corresponds to the low layer, while the second and third rows represent the middle layer and high layer, respectively. The upper-right displays the raw support image corresponding to the feature map.
 
+
 <div align=center><img width="80%" src="Figures/Fig.8.png"></div> 
 
 Figure 8. Visualization of heterogeneous features at different layers for query feature map. The first row corresponds to the low layer, while the second and third rows represent the middle layer and high layer, respectively. The upper-right displays the raw query image corresponding to the feature map.
@@ -35,7 +36,9 @@ Figure 10. Comparative Qualitative Visualization Analysis with State-of-the-Art 
 
 <div align=center><img width="80%" src="Figures/Fig.11.png"></div> 
 
+
 Figure 11. Multi-Objective Qualitative Visualization Analysis：Visualizing Segmentation Results under a 1-Shot Setting on the COCO-20i Datasets. Each pair of columns corresponds to a fold in the meta-learning paradigm.
+
 
 <div align=center><img width="80%" src="Figures/Fig.12.png"></div> 
 
