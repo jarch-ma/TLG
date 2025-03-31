@@ -7,7 +7,7 @@ Figure 7. Visualization of heterogeneous features at different layers for suppor
 
 <div align=center><img width="80%" src="Figures/Fig.8.png"></div> 
 
-Figure 8. Visualization of heterogeneous features at different layers for query feature map. The first row corresponds to the low layer, while the second and third rows represent the middle layer and high layer, respectively. Relevant content is omitted below. The upper-right displays the raw query image corresponding to the feature map.
+Figure 8. Visualization of heterogeneous features at different layers for query feature map. The first row corresponds to the low layer, while the second and third rows represent the middle layer and high layer, respectively. The upper-right displays the raw query image corresponding to the feature map.
 
 ## Added visualization
 <div align=center><img width="80%" src="Figures/Fig.10.png"></div> 
