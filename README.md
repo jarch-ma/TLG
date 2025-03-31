@@ -8,7 +8,7 @@ Figure 10. Multi-Objective Qualitative Visualization Analysis：Visualizing Segm
 ## Abstract
 <div align=center><img width="80%" src="Figures/Fig.11.png"></div> 
 
-Figure 11. Comparative Qualitative Visualization Analysis with State-of-the-Art Models: Visualizing Segmentation Results under a 1-Shot Setting on the Pascal-5i Datasets. Each pair of columns corresponds to a fold in the meta-learning setting. The yellow numbers in the bottom right denote the Intersection over Union (IoU) scores.
+Figure 11. Comparative Qualitative Visualization Analysis with State-of-the-Art Models: Visualizing Segmentation Results under a 1-Shot Setting on the Pascal-5i Datasets. Each pair of columns corresponds to a fold in the meta-learning paradigm. The yellow numbers in the bottom right denote the Intersection over Union (IoU) scores.
 
 ## Abstract
 <div align=center><img width="80%" src="Figures/Fig.12.png"></div> 
