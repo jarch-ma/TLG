@@ -13,5 +13,4 @@ Figure 11. Comparative Qualitative Visualization Analysis with State-of-the-Art 
 ## Abstract
 <div align=center><img width="80%" src="Figures/Fig.12.png"></div> 
 
-Figure 12. Ablation Study via Qualitative Visual Analysis: From left to right, the first two columns depict the raw input image and its corresponding ground-truth mask. 
-The visualizing segmentation results under a 1-Shot Setting on the Pascal-5i fold 0 Datasets. Each pair of columns corresponds to a fold in the meta-learning paradigm. The yellow numbers in the bottom right denote the Intersection over Union (IoU) scores.
+Figure 12. Ablation Study via Qualitative Visual Analysis: From left to right, the first two columns illustrate the raw input image and its corresponding ground-truth mask. “Backbone” denotes features extracted solely from ResNet-50 for segmentation visualization. “HA” refers to the heterogeneous aggregation module, “HT” denotes the heterogeneous transfer module, and “HC” represents the heterogeneous CLIP module, respectively.
