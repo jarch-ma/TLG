@@ -3,7 +3,7 @@ The code will be uploaded after the paper is accepted.
 ## Abstract
 <div align=center><img width="80%" src="Figures/Fig.10.png"></div> 
 
-Figure 10. Multi-Objective Qualitative Visualization Analysis：Visualizing Segmentation Results under a 1-Shot Setting on the Pascal-5i and COCO-20i Datasets.
+Figure 10. Multi-Objective Qualitative Visualization Analysis：Visualizing Segmentation Results under a 1-Shot Setting on the COCO-20i Datasets. Each pair of columns corresponds to a fold in the meta-learning setting.
 
 ## Abstract
 <div align=center><img width="80%" src="Figures/Fig.11.png"></div> 
