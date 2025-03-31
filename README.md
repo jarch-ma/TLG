@@ -1,16 +1,15 @@
 The code will be uploaded after the paper is accepted.
 
-## Abstract
+## Update visualization
 <div align=center><img width="80%" src="Figures/Fig.7.png"></div> 
 
-Figure 10. Multi-Objective Qualitative Visualization Analysis：Visualizing Segmentation Results under a 1-Shot Setting on the COCO-20i Datasets. Each pair of columns corresponds to a fold in the meta-learning paradigm.
+Figure 7. Visualization of heterogeneous features at different layers for support image. The first row corresponds to the low layer, while the second and third rows represent the middle layer and high layer, respectively. Relevant content is omitted below. The upper-right displays the raw support image corresponding to the feature map.
 
-## Abstract
 <div align=center><img width="80%" src="Figures/Fig.8.png"></div> 
 
-Figure 10. Multi-Objective Qualitative Visualization Analysis：Visualizing Segmentation Results under a 1-Shot Setting on the COCO-20i Datasets. Each pair of columns corresponds to a fold in the meta-learning paradigm.
+Figure 8. Visualization of heterogeneous features at different layers for support image. The first row corresponds to the low layer, while the second and third rows represent the middle layer and high layer, respectively. Relevant content is omitted below. The upper-right displays the raw query image corresponding to the feature map.
 
-## Abstract
+## Added visualization
 <div align=center><img width="80%" src="Figures/Fig.10.png"></div> 
 
 Figure 10. Multi-Objective Qualitative Visualization Analysis：Visualizing Segmentation Results under a 1-Shot Setting on the COCO-20i Datasets. Each pair of columns corresponds to a fold in the meta-learning paradigm.
