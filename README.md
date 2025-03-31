@@ -3,11 +3,11 @@ The code will be uploaded after the paper is accepted.
 ## Update visualization
 <div align=center><img width="80%" src="Figures/Fig.7.png"></div> 
 
-Figure 7. Visualization of heterogeneous features at different layers for support image. The first row corresponds to the low layer, while the second and third rows represent the middle layer and high layer, respectively. Relevant content is omitted below. The upper-right displays the raw support image corresponding to the feature map.
+Figure 7. Visualization of heterogeneous features at different layers for support feature map. The first row corresponds to the low layer, while the second and third rows represent the middle layer and high layer, respectively. The upper-right displays the raw support image corresponding to the feature map.
 
 <div align=center><img width="80%" src="Figures/Fig.8.png"></div> 
 
-Figure 8. Visualization of heterogeneous features at different layers for support image. The first row corresponds to the low layer, while the second and third rows represent the middle layer and high layer, respectively. Relevant content is omitted below. The upper-right displays the raw query image corresponding to the feature map.
+Figure 8. Visualization of heterogeneous features at different layers for query feature map. The first row corresponds to the low layer, while the second and third rows represent the middle layer and high layer, respectively. Relevant content is omitted below. The upper-right displays the raw query image corresponding to the feature map.
 
 ## Added visualization
 <div align=center><img width="80%" src="Figures/Fig.10.png"></div> 
