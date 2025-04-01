@@ -5,7 +5,7 @@ The code will be uploaded after the paper is accepted.
 Table 3. Ablation study on various modules of TLG. The first row represents using only homogeneous features extracted by Backbone ResNet50. Following the same settings as AFANet, we set the support and query to layers 3, 9, and 12.
 <div align=center><img width="80%" src="Figures/Table3.png"></div> 
 
-## 2.Added Quantitative Analysis (For Reviewer 3: W9Dn and Reviewer 4: 7h83):
+## 2.Added Quantitative Analysis (For Reviewer 4: 7h83):
 
 Table 4. Ablation study on heterogeneous support and query layers. The backbone and dataset are ResNet50 and Pascal-5i, respectively.
 <div align=center><img width="80%" src="Figures/Table4.png"></div> 
