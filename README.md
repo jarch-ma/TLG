@@ -1,6 +1,6 @@
 The code will be uploaded after the paper is accepted.
 
-## 1.Update Quantitative Analysis (For Reviewer 1: nR2K):
+## 1.Revised Quantitative Analysis (For Reviewer 1: nR2K):
 
 Table 3. Ablation study on various modules of TLG. The first row represents using only homogeneous features extracted by Backbone ResNet50. Following the same settings as AFANet, we set the support and query to layers 3, 9, and 12.
 <div align=center><img width="80%" src="Figures/Table3.png"></div> 
@@ -10,7 +10,7 @@ Table 3. Ablation study on various modules of TLG. The first row represents usin
 Table 4. Ablation study on heterogeneous support and query layers. The backbone and dataset are ResNet50 and Pascal-5i, respectively.
 <div align=center><img width="80%" src="Figures/Table4.png"></div> 
 
-## 3. Update Qualitative Visualization Analysis (For Reviewer 2: Q24e):
+## 3. Revised Qualitative Visualization Analysis (For Reviewer 2: Q24e):
 <div align=center><img width="80%" src="Figures/Fig.7.png"></div> 
 
 Figure 7. Visualization of heterogeneous features at different layers for support feature map. The first row corresponds to the low layer, while the second and third rows represent the middle layer and high layer, respectively. The upper-right displays the raw support image corresponding to the feature map.
