@@ -6,7 +6,11 @@ Due to page limitations in the submitted manuscript, we have omitted some experi
 
 -----------------------------------------------------------
 ## TLG Multi-Object Segmentation Visualization
-<div align=center><img width="80%" src="Figs/Fig.1.png"></div> 
+
+<div align="center">
+  <img width="80%" src="Figs/Fig.1.png">
+  <p><b>Figure 1.</b> Multi-Objective Qualitative Visualization Analysis: Visualizing Segmentation Results under a 1-Shot Setting on the COCO-20i Datasets. Each pair of columns corresponds to a fold in the meta-learning paradigm.</p>
+</div>
 
 This section provides a systematic evaluation of the TLG model's performance in multi-object segmentation scenarios. Compared to single-object segmentation, multi-object segmentation places higher demands on the model's contextual understanding. This is primarily due to the inherent attention bias of convolutional neural networks, which tend to prioritize salient object features in the image. This characteristic not only tests the model's ability to integrate multi-scale spatial information but also presents a significant challenge in modeling the interactions between objects in complex scenes. 
 
