@@ -23,7 +23,7 @@ As illustrated in Figure 1, we systematically evaluate TLG's multi-object segmen
   <p><b>Figure 1.</b> Multi-Objective Qualitative Visualization Analysis: Visualizing Segmentation Results under a 1-Shot Setting on the COCO-20i Datasets. Each pair of columns corresponds to a fold in the meta-learning paradigm.</p>
 </div>
 
-1. Limited guidance due to pseudo-mask accuracy. TLG adopts a weakly supervised paradigm based on image-level labels, following a three-stage process: pseudo-mask generation, feature refinement, and target segmentation. However, constrained by the current accuracy of pseudo-mask generation techniques, there remains a significant gap between pseudo-masks and ground-truth masks. When pseudo-mask quality is poor, model performance is noticeably affected. Therefore, developing higher-quality pseudo-labels is an important direction for future research.
+1. xxx
 
 2. Over-segmentation of fine-grained objects. Images from daily life scenes are frequently characterized by low resolution and blurriness. For example, the “bicycle” category, which features a slender and complex structure with numerous components such as tires and chains, may lead the model to over-respond to local details, resulting in over-segmentation. To address this issue, future work could explore the integration of super-resolution mechanisms to improve the segmentation performance of fine-grained objects.
 
