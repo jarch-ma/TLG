@@ -10,7 +10,7 @@ The code will be uploaded after the paper is accepted.
 
 <p align="center">
   <a href="https://scholar.google.com/citations?user=VtduT6sAAAAJ&hl=zh-CN">Jiaqi Ma</a><sup>1</sup> &nbsp;·&nbsp;
-  <a href="https://scholar.google.it/citations?hl=it&user=-fEOFbMAAAAJ">Guo-Sen Xie</a><sup>1</sup> &nbsp;·&nbsp;
+  <a href="https://scholar.google.com.hk/citations?user=LKaWa9gAAAAJ&hl=zh-CN&oi=ao">Guo-Sen Xie</a><sup>1</sup> &nbsp;·&nbsp;
   <a href="https://scholar.google.com/citations?user=cM3Iz_4AAAAJ">Fang Zhao</a><sup>2</sup> &nbsp;·&nbsp;
   <a href="https://scholar.google.com/citations?user=mHbdIAwAAAAJ">Zechao Li</a><sup>1</sup>
 </p>
