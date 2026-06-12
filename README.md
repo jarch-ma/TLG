@@ -4,9 +4,7 @@
   <a href="[https://arxiv.org/abs/2605.19623"><img src="https://img.shields.io/badge/arXiv-2605.19623-b31b1b.svg" alt="arXiv"></a>
 </p>
 
-The code will be uploaded after the paper is accepted.
 
------------------------------------------------------------
 
 <p align="center">
   <a href="https://scholar.google.com/citations?user=VtduT6sAAAAJ&hl=zh-CN">Jiaqi Ma</a><sup>1</sup> &nbsp;·&nbsp;
@@ -19,3 +17,6 @@ The code will be uploaded after the paper is accepted.
   <sup>1</sup> Nanjing University of Science and Technology &nbsp;&nbsp;
   <sup>2</sup> Nanjing University
 </p>
+
+Update:
+The code will be uploaded after the paper is accepted.
