@@ -11,7 +11,7 @@ The code will be uploaded after the paper is accepted.
 <p align="center">
   <a href="https://scholar.google.com/citations?user=VtduT6sAAAAJ&hl=zh-CN">Jiaqi Ma</a><sup>1</sup> &nbsp;·&nbsp;
   <a href="https://scholar.google.com.hk/citations?user=LKaWa9gAAAAJ&hl=zh-CN&oi=ao">Guo-Sen Xie</a><sup>1</sup> &nbsp;·&nbsp;
-  <a href="hhttps://scholar.google.com.hk/citations?hl=zh-CN&user=4C7mvOwAAAAJ">Fang Zhao</a><sup>2</sup> &nbsp;·&nbsp;
+  <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=4C7mvOwAAAAJ">Fang Zhao</a><sup>2</sup> &nbsp;·&nbsp;
   <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=L6J2V3sAAAAJ">Zechao Li</a><sup>1</sup>
 </p>
 
