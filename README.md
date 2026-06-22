@@ -18,6 +18,6 @@
   <sup>2</sup> Nanjing University
 </p>
 
-Update:
+## :fire: News
 
-The code will be uploaded after the paper is accepted.
+[June 22, 2026]： TLG is accepted by IEEE Transactions on Image Processing (TIP).
