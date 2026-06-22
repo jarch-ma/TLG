@@ -20,4 +20,4 @@
 
 ## :fire: News
 
-[June 22, 2026]： TLG is accepted by IEEE Transactions on Image Processing (T-IP).
+[June 22, 2026]： TLG is accepted by IEEE Transactions on Image Processing (IEEE T-IP).
