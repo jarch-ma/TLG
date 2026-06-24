@@ -45,6 +45,8 @@ Meta-learning aims to uniformly sample homologous support-query pairs, character
 3. Due to my internship, the pseudo-mask generation code is currently unavailable, but we provide the experimental pseudo-masks to reproduce the reported results.
 You can download it from [Jarch-ma/TLG_Dataset](https://huggingface.co/datasets/Jarch-ma/TLG_dataset)
 
+4. The pretrained model weights used in our experiments can be downloaded from [Jarch-ma/TLG_Dataset](https://huggingface.co/datasets/Jarch-ma/TLG_dataset).
+
 ---
 
 # Environment Configuration
