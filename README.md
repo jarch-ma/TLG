@@ -28,7 +28,7 @@ If you like this project, please ⭐ it on GitHub, Thanks!
 [June 22, 2026]： TLG is accepted by IEEE Transactions on Image Processing (TIP).
 
 ## Abstract
-<div align=center><img width="90%" src="Figs/Fig2.png"></div> 
+<div align=center><img width="100%" src="Figs/Fig2.png"></div> 
 
 Meta-learning aims to uniformly sample homologous support-query pairs, characterized by the same categories and similar attributes, and extract useful inductive biases through identical network architectures. However, this identical network design results in over-semantic homogenization. To address this, we propose a novel homologous but heterogeneous network. By treating support-query pairs as dual perspectives, we introduce heterogeneous visual aggregation (HA) modules to enhance complementarity while preserving semantic commonality. To further reduce semantic noise and amplify the uniqueness of heterogeneous semantics, we design a heterogeneous transport (HT) module. Finally, we propose heterogeneous CLIP (HC) textual information to enhance the generalization capability of multimodal models. In the weakly-supervised few-shot semantic segmentation (WFSS) task, with only 1/24 of the parameters of existing state-of-the-art models, TLG achieves a 13.2\% improvement on Pascal-5\textsuperscript{i} and a 7.9\% improvement on COCO-20\textsuperscript{i}. To the best of our knowledge, TLG is also the first weakly-supervised (image-level) model that outperforms fully supervised (pixel-level) models under the same backbone architectures.
 
