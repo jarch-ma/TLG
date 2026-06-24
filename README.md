@@ -23,6 +23,6 @@ If you like this project, please ⭐ it on GitHub, Thanks!
 
 ## :fire: News
 
-[October 24, 2024]： We have released all the code of TLG.
+[June 24, 2026]： We have released all the code of TLG.
 
-[June 22, 2024]： AFANet is accepted by IEEE Transactions on Multimedia (TMM).
+[June 22, 2026]： AFANet is accepted by IEEE Transactions on Multimedia (TMM).
