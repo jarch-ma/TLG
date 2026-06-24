@@ -53,7 +53,7 @@ Please run the following commands to configure the environment:
 
 ```bash
 # 1. Creating a conda environment
-conda env create -n TLG python=3.10
+conda create -n TLG python=3.10
 
 # 2. Install torch Depend on your CUDA
 
