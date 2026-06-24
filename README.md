@@ -35,3 +35,32 @@ Meta-learning aims to uniformly sample homologous support-query pairs, character
 ## Experiments
 <div align=center><img width="80%" src="Figs/exp1.png"></div> 
 <div align=center><img width="80%" src="Figs/exp2.png"></div> 
+
+# Data Preparation
+
+1. Create a folder named `SynSeg_dataset`.
+
+2. Download the dataset from [Jarch-ma/FSS_Dataset](https://huggingface.co/datasets/Jarch-ma/FSS_Dataset) and simply unzip it.
+
+---
+
+# Environment Configuration
+
+Please run the following commands to configure the environment:
+
+```bash
+# 1. Creating a conda environment
+conda env create -n TLG python=3.10
+
+# 2. Install torch Depend on your CUDA
+
+# CUDA 11.8
+pip install torch==2.3.1 torchvision==0.18.1 torchaudio==2.3.1 --index-url https://download.pytorch.org/whl/cu118
+
+# 3. Install dependencies
+pip install -r requirements.txt
+
+# 5. Install SAM then delete the folder
+git clone https://github.com/facebookresearch/sam2.git && cd sam2
+pip install -e .
+```
