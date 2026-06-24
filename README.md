@@ -1,8 +1,7 @@
-# AFANet: Adaptive Frequency-Aware Network for Weakly-Supervised Few-Shot Semantic Segmentation
+# Through the Looking Glass: A Dual Perspective on Weakly-Supervised Few-Shot Segmentation
 
 <p align="center">
   <a href="https://arxiv.org/abs/2412.17601"><img src="https://img.shields.io/badge/arXiv-2605.19623-b31b1b.svg" alt="arXiv"></a>
-  <a href="https://ieeexplore.ieee.org/abstract/document/10906597"><img src="https://img.shields.io/badge/IEEE%20TMM-Accepted-blue.svg?logo=ieee&logoColor=white" alt="IEEE TMM"></a>
 </p>
 
 
