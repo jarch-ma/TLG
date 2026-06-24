@@ -38,7 +38,7 @@ Meta-learning aims to uniformly sample homologous support-query pairs, character
 
 # Data Preparation
 
-1. Create a folder named `SynSeg_dataset`.
+1. Create a folder named `TLG_dataset`.
 
 2. Download the dataset from [Jarch-ma/FSS_Dataset](https://huggingface.co/datasets/Jarch-ma/FSS_Dataset) and simply unzip it.
 
