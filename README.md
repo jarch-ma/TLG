@@ -63,7 +63,4 @@ pip install torch==2.3.1 torchvision==0.18.1 torchaudio==2.3.1 --index-url https
 # 3. Install dependencies
 pip install -r requirements.txt
 
-# 5. Install SAM then delete the folder
-git clone https://github.com/facebookresearch/sam2.git && cd sam2
-pip install -e .
 ```
