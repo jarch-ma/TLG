@@ -25,7 +25,7 @@ If you like this project, please ⭐ it on GitHub, Thanks!
 
 [June 24, 2026]： We have released all the code of TLG.
 
-[June 22, 2026]： AFANet is accepted by IEEE Transactions on Image Processing (TIP).
+[June 22, 2026]： TLG is accepted by IEEE Transactions on Image Processing (TIP).
 
 ## Abstract
 <div align=center><img width="80%" src="Figs/Fig2.png"></div> 
