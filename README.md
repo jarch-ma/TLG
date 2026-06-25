@@ -57,12 +57,9 @@ tlg_data/
 │ └── val2014/
 │
 ├── voc2012/
-│ ├── Annotations/
-│ ├── ImageSets/
 │ ├── JPEGImages/
-│ ├── SegmentationClass/
+│ ├── ...
 │ ├── SegmentationClassAug/
-│ ├── SegmentationClassAug.zip
 │ └── SegmentationObject/
 │
 └── voc_pesudo_mask/
