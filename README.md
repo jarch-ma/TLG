@@ -85,3 +85,16 @@ pip install torch==2.3.1 torchvision==0.18.1 torchaudio==2.3.1 --index-url https
 pip install -r requirements.txt
 
 ```
+# Train and Test
+
+```bash
+# 1. Note: configure the parser arguments in train.py and test.py, and then：
+# 2. Train:
+python train.py
+
+# 3. Test:
+python test.py
+```
+
+
+```
