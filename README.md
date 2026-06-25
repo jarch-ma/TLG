@@ -38,7 +38,7 @@ Meta-learning aims to uniformly sample homologous support-query pairs, character
 
 # Data Preparation
 
-1. Create a folder named `TLG_dataset`.
+1. Create a folder named `tlg_dataset`.
 
 2. Download the dataset (VOC2012 and COCO2014) from [Jarch-ma/FSS_Dataset](https://huggingface.co/datasets/Jarch-ma/FSS_Dataset) and simply unzip it.
 
