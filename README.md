@@ -48,6 +48,7 @@ You can download it from [Jarch-ma/TLG_Dataset](https://huggingface.co/datasets/
 4. The pretrained model weights used in our experiments can be downloaded from [Jarch-ma/TLG_Dataset](https://huggingface.co/datasets/Jarch-ma/TLG_dataset).
 
 5. Please organize the datasets and pseudo masks according to the following directory structure: 
+```text
 
 tlg_data/
 ├── COCO2014/
@@ -64,8 +65,9 @@ tlg_data/
 │ └── SegmentationObject/
 └── voc_pesudo_mask/
 ├── PseMask_Train/
-└── PseMask_Val/ 
+└── PseMask_Val/
 
+```
 
 # Environment Configuration
 
