@@ -83,7 +83,7 @@ if __name__ == '__main__':
 
     # Arguments parsing
     parser = argparse.ArgumentParser(description='Through the Looking Glass: A Dual Perspective on Few-Shot Semantic Segmentation')
-    parser.add_argument('--datapath', type=str, default='/your_data_path/tlg_data/')
+    parser.add_argument('--datapath', type=str, default='/your_path/tlg_data/')
     parser.add_argument('--benchmark', type=str, default='pascal',choices=['pascal', 'coco'])  # Decide which dataset to use
     parser.add_argument('--logpath', type=str, default='')  # The path can be specified or empty
     parser.add_argument('--bsz', type=int, default=16)
@@ -95,9 +95,9 @@ if __name__ == '__main__':
     parser.add_argument('--backbone', type=str, default='resnet50', choices=['vgg16', 'resnet50', 'resnet101'])
     # voc
     parser.add_argument('--traincampath', type=str,
-                        default='/your_data_path/tlg_data/voc_pesudo_mask/PseMask_Train/')
+                        default='/your_path/tlg_data/voc_pesudo_mask/PseMask_Train/')
     parser.add_argument('--valcampath', type=str,
-                        default='/your_data_path/tlg_data/voc_pesudo_mask/PseMask_Val/')
+                        default='/your_path/tlg_data/voc_pesudo_mask/PseMask_Val/')
     # coco
     # parser.add_argument('--traincampath', type=str, default='/your_data_path/tlg_data/coco_pseudo_mask/')
     # parser.add_argument('--valcampath', type=str, default='/your_data_path/tlg_data/coco_pseudo_mask/')
@@ -117,7 +117,7 @@ if __name__ == '__main__':
     Logger.info('# available GPUs: %d' % torch.cuda.device_count())
 
     # Model initialization
-    clip_model, _ = clip.load('/your_data_path/tlg_pretrain/ViT-B-32.pt', device=device, jit=False)
+    clip_model, _ = clip.load('/your_path/tlg_pretrain/ViT-B-32.pt', device=device, jit=False)
     model = tlg(args.backbone, False, args.benchmark, clip_model)
     Logger.log_params(model)
 
