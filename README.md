@@ -91,7 +91,7 @@ pip install -r requirements.txt
 # Note: configure the parser arguments in train.py and test.py, and then：
 # Train:
 python train.py
-# Test:
+# Test: The model weight file `best_model.pt` will be generated after training is completed.
 python test.py
 ```
 
