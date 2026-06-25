@@ -55,6 +55,7 @@ tlg_data/
 │ ├── annotations/
 │ ├── train2014/
 │ ├── val2014/
+│
 ├── voc2012/
 │ ├── Annotations/
 │ ├── ImageSets/
@@ -63,6 +64,7 @@ tlg_data/
 │ ├── SegmentationClassAug/
 │ ├── SegmentationClassAug.zip
 │ └── SegmentationObject/
+│
 └── voc_pesudo_mask/
 │ ├── PseMask_Train/
 │ ├── PseMask_Val/
