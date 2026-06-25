@@ -106,3 +106,13 @@ python test.py
 ## :email: Email
 If you have any questions, please contact me: machiachi@163.com
 
+## BibTeX
+If you use this code for your research, please consider citing:
+````
+@article{ma2025through,
+  title={Through the Looking Glass: A Dual Perspective on Weakly-Supervised Few-Shot Segmentation},
+  author={Ma, Jiaqi and Xie, Guo-Sen and Zhao, Fang and Li, Zechao},
+  journal={arXiv preprint arXiv:2508.16159},
+  year={2025}
+}
+````
