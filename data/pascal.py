@@ -187,7 +187,7 @@ class DatasetPASCAL(Dataset):
     def build_img_metadata(self):
 
         def read_metadata(split, fold_id):
-            fold_n_metadata = os.path.join('/media/newssd2/jiaqi/code/TLG_final_thu/data/splits/pascal//%s//fold%d.txt' % (split, fold_id)) # 现在更推荐f-string或者 format写法
+            fold_n_metadata = os.path.join('your_path/data/splits/pascal//%s//fold%d.txt' % (split, fold_id)) # 现在更推荐f-string或者 format写法
 
             with open(fold_n_metadata, 'r') as f:
                 fold_n_metadata = f.read().split('\n')[:-1]
