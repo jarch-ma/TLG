@@ -106,7 +106,7 @@ python test.py
 ## :email: Email
 If you have any questions, please contact me: machiachi@163.com
 
-## BibTeX
+## :book: BibTeX
 If you use this code for your research, please consider citing:
 ````
 @article{ma2025through,
