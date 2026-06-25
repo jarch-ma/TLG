@@ -32,7 +32,7 @@ class tlg(nn.Module):
         if backbone == 'vgg16':
             self.backbone = vgg.vgg16(pretrained=False)
             # Please replace this with your file path.
-            ckpt = torch.load('/your_data_path/tlg_pretrain/vgg16-397923af.pth',
+            ckpt = torch.load('/your_path/tlg_pretrain/vgg16-397923af.pth',
                               weights_only=True)
             self.backbone.load_state_dict(ckpt)
             self.feat_ids = [17, 19, 21, 24, 26, 28, 30]
@@ -42,7 +42,7 @@ class tlg(nn.Module):
         elif backbone == 'resnet50':
             self.backbone = resnet.resnet50(pretrained=False)
             # Please replace this with your file path.
-            ckpt = torch.load('/your_data_path/tlg_pretrain/resnet50-19c8e357.pth',
+            ckpt = torch.load('your_path/tlg_pretrain/resnet50-19c8e357.pth',
                               weights_only=True)
             self.backbone.load_state_dict(ckpt)
             self.feat_ids = list(range(4, 17))
