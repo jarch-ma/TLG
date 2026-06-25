@@ -90,7 +90,7 @@ pip install -r requirements.txt
 ```bash
 # Note: 
 1. Use global search (`Shift + F`) to replace `/your_path` with your local data and weight paths.
-2. configure the parser arguments in train.py and test.py, and then：
+2. Configure the parser arguments in train.py and test.py, and then：
 # Train:
 python train.py
 # Test: The model weight file `best_model.pt` will be generated after training is completed.
