@@ -52,6 +52,9 @@ You can download it from [Jarch-ma/TLG_Dataset](https://huggingface.co/datasets/
 
 tlg_data/
 ├── COCO2014/
+│ ├── annotations/
+│ ├── train2014/
+│ ├── val2014/
 ├── voc2012/
 │ ├── Annotations/
 │ ├── ImageSets/
