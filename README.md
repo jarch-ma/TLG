@@ -88,10 +88,10 @@ pip install -r requirements.txt
 # Train and Test
 
 ```bash
-# 1. Note: configure the parser arguments in train.py and test.py, and then：
-# 2. Train:
+# Note: configure the parser arguments in train.py and test.py, and then：
+# Train:
 python train.py
-# 3. Test:
+# Test:
 python test.py
 ```
 
