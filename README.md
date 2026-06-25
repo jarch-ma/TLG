@@ -91,10 +91,7 @@ pip install -r requirements.txt
 # 1. Note: configure the parser arguments in train.py and test.py, and then：
 # 2. Train:
 python train.py
-
 # 3. Test:
 python test.py
 ```
 
-
-```
