@@ -23,7 +23,7 @@ If you like this project, please ⭐ it on GitHub, Thanks!
 
 ## :fire: News
 
-[June 24, 2026]： We have released all the code of TLG.
+[June 25, 2026]： We have released all the code of TLG.
 
 [June 22, 2026]： TLG is accepted by IEEE Transactions on Image Processing (TIP).
 
