@@ -59,7 +59,7 @@ if __name__ == '__main__':
     # Arguments parsing
     parser = argparse.ArgumentParser(
         description='Through the Looking Glass: A Dual Perspective on Few-Shot Semantic Segmentation')
-    parser.add_argument('--datapath', type=str, default='/your_data_path/tlg_data/')
+    parser.add_argument('--datapath', type=str, default='/your_path/tlg_data/')
     parser.add_argument('--benchmark', type=str, default='pascal', choices=['pascal', 'coco', 'fss'])
     parser.add_argument('--logpath', type=str, default='')
     parser.add_argument('--bsz', type=int, default=1)  # must be 1
@@ -74,9 +74,9 @@ if __name__ == '__main__':
 
     # Pseudo mask for pascal dataset,
     parser.add_argument('--traincampath', type=str,
-                        default='/your_data_path/tlg_data/voc_pesudo_mask/PseMask_Train/')
+                        default='/your_path/tlg_data/voc_pesudo_mask/PseMask_Train/')
     parser.add_argument('--valcampath', type=str,
-                        default='/your_data_path/tlg_data/voc_pesudo_mask/PseMask_Val/')
+                        default='/your_path/tlg_data/voc_pesudo_mask/PseMask_Val/')
 
     # Pseudo mask for coco dataset
     # parser.add_argument('--traincampath', type=str, default='/your_data_path/coco_pesudo_mask/')
