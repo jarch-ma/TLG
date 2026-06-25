@@ -54,7 +54,7 @@ tlg_data/
 ├── COCO2014/
 │ ├── annotations/
 │ ├── train2014/
-│ ├── val2014/
+│ └── val2014/
 │
 ├── voc2012/
 │ ├── Annotations/
@@ -67,7 +67,7 @@ tlg_data/
 │
 └── voc_pesudo_mask/
 │ ├── PseMask_Train/
-│ ├── PseMask_Val/
+│ └── PseMask_Val/
 ├── coco_pseudo_mask/
 │ ├── train2014/
 │ └── val2014/
