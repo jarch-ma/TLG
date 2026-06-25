@@ -68,6 +68,7 @@ tlg_data/
 └── voc_pesudo_mask/
 │ ├── PseMask_Train/
 │ └── PseMask_Val/
+│
 ├── coco_pseudo_mask/
 │ ├── train2014/
 │ └── val2014/
