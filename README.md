@@ -80,7 +80,6 @@ Please run the following commands to configure the environment:
 conda create -n TLG python=3.10
 
 # 2. Install torch Depend on your CUDA
-
 # CUDA 11.8
 pip install torch==2.3.1 torchvision==0.18.1 torchaudio==2.3.1 --index-url https://download.pytorch.org/whl/cu118
 
