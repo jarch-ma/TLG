@@ -1,6 +1,7 @@
 # Through the Looking Glass: A Dual Perspective on Weakly-Supervised Few-Shot Segmentation
 
 <p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=jarch-ma.TLG&left_text=visitors&left_color=%23595959&right_color=%231283c3" alt="visitors">
   <a href="https://arxiv.org/abs/2508.16159"><img src="https://img.shields.io/badge/arXiv-2605.19623-b31b1b.svg" alt="arXiv"></a>
 </p>
 
