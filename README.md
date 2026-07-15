@@ -115,6 +115,6 @@ If you use this code for your research, please consider citing:
   title={Through the Looking Glass: A Dual Perspective on Weakly Supervised Few-Shot Segmentation}, 
   year={2026},
   volume={35},
-  pages={7293-7306},
+  pages={7293-7306}
   }
 ````
