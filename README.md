@@ -109,10 +109,12 @@ If you have any questions, please contact me: machiachi@163.com
 ## :book: BibTeX
 If you use this code for your research, please consider citing:
 ````
-@article{ma2025through,
-  title={Through the Looking Glass: A Dual Perspective on Weakly-Supervised Few-Shot Segmentation},
+@ARTICLE{11595915,
   author={Ma, Jiaqi and Xie, Guo-Sen and Zhao, Fang and Li, Zechao},
-  journal={arXiv preprint arXiv:2508.16159},
-  year={2025}
-}
+  journal={IEEE Transactions on Image Processing}, 
+  title={Through the Looking Glass: A Dual Perspective on Weakly Supervised Few-Shot Segmentation}, 
+  year={2026},
+  volume={35},
+  pages={7293-7306},
+  }
 ````
